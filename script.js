@@ -95,4 +95,3 @@ document.getElementById("tableBtn").addEventListener("click", function() {
 document.getElementById("themeToggleBtn").addEventListener("click", function() {
     document.body.classList.toggle("dark-theme");
 });
-
